@@ -1,6 +1,6 @@
 ---
 name: "❓ question"
-about: have a question about seraph?
+about: have a question about voyager?
 title: "[Question] "
 labels: question
 assignees: a456pur
